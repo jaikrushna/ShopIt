@@ -1,0 +1,51 @@
+name: shop_it
+description: A new Flutter application.
+
+environment:
+  sdk: '>=2.10.0 <3.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  provider: ^6.0.3
+  intl: ^0.17.0
+  http: ^0.13.4
+  shared_preferences: ^2.0.15
+  carousel_slider: ^4.1.1
+  flutter_svg: ^1.1.6
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: "^0.11.0"
+
+
+  flutter_lints: ^1.0.0
+
+flutter:
+
+  uses-material-design: true
+
+
+  assets:
+       - assests/images/5464026.jpg
+       - assests/images/Untitled.png
+       - assests/images/Untitledh.png
+       - assests/images/Untitledh2.png
+       - assests/images/shop.png
+       - assests/images/jaii.png
+       - assests/images/spa.png
+       - assests/images/Shoplo.png
+       - assests/images/insid.png
+       - assests/images/in.png
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/jai.shopit.png"
+  min_sdk_android: 21 # android min sdk min:16, default 21
+#   fonts:
+#     - family: YanoneKaffeesatz
+#       fonts:
+#         - asset: fonts/YanoneKaffeesatz-VariableFont_wght.ttf
+
+
