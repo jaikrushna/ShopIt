@@ -2,9 +2,10 @@
 
 #Output
 
-<h1> 1]Registration_Page:</h1>
-#![WhatsApp Image 2023-02-10 at 12 23 00 AM](https://user-images.githubusercontent.com/86294906/218159036-59323548-3948-42da-94bc-06e41f71a440.jpeg)
+<h1> 1]Registration_Page:
+![App Screenshot](https://user-images.githubusercontent.com/86294906/218159036-59323548-3948-42da-94bc-06e41f71a440.jpeg)
 Firebase email Authentication used
+</h1>
 <h2>2]Login_Page:</h2>
 ![WhatsApp Image 2023-02-10 at 12 23 01 AM](https://user-images.githubusercontent.com/86294906/218159097-a22052d9-ce67-4a63-a65d-a6d0c6b4c112.jpeg)
 Contains custom logo made on figma
