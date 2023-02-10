@@ -9,72 +9,66 @@ Idea behind this application is to deliver the things to the users or customers 
 
 #### 1]Registration_Page:
 ###### Firebase email Authentication used.
-![App Screenshot](https://user-images.githubusercontent.com/86294906/218170606-36a1aa81-3785-4ca9-834e-ad213768cb9e.jpg)
+![App Screenshot]![resize1](https://user-images.githubusercontent.com/86294906/218173232-5e24e2cb-7a73-418e-9650-c5a81fcfe990.jpg)
 
 
 #### 2]Login_Page:
 ###### Contains custom logo made on figma
-![App Screenshot](https://user-images.githubusercontent.com/86294906/218159097-a22052d9-ce67-4a63-a65d-a6d0c6b4c112.jpeg)
+![App Screenshot]![resize2](https://user-images.githubusercontent.com/86294906/218173311-0db596e6-0c3f-452c-997d-5350b5cf0f32.jpg)
 
 
 #### 3]Main_Page:
 ###### Contains a Drawer, Cart, Fav selector and Products Displayed as cards on Grid 
-![WhatsApp Image 2023-02-10 at 12 22 58 AM (1)](https://user-images.githubusercontent.com/86294906/218159461-cd895b87-d5e7-4605-b643-10b25c695334.jpeg)
+![App Screenshot]![resize7](https://user-images.githubusercontent.com/86294906/218173438-83347d88-8608-4b21-8199-0ea64c0ccade.jpg)
 
 
 #### 4]Favourites options:
 ###### 2 Options=Favs and All
-![WhatsApp Image 2023-02-10 at 12 22 58 AM](https://user-images.githubusercontent.com/86294906/218160328-f400df40-3202-48c1-ac18-c4859513f9e2.jpeg)
+![App Screenshot]![resize9](https://user-images.githubusercontent.com/86294906/218173475-fc2e4833-2c6b-40a1-b349-1551410470fe.jpg)
 
 
 #### 5]Favourites:
 ###### Only Liked images are disaplyed
-![WhatsApp Image 2023-02-10 at 12 22 57 AM (2)](https://user-images.githubusercontent.com/86294906/218160478-afb891c6-8663-4867-b678-0184b6967638.jpeg)
-
+![App Screenshot]![resize5](https://user-images.githubusercontent.com/86294906/218173513-c7fc41ef-3b1c-4369-95ff-5e144c788194.jpg)
 
 
 #### 6]Added to Cart:
 ###### Card contains like button, Name of product and cart button to add item, after adding a pop-up to notify or undo the to remove from cart
-![WhatsApp Image 2023-02-10 at 12 22 57 AM (1)](https://user-images.githubusercontent.com/86294906/218160612-ca73ecc6-3d58-4d13-abff-dd481902719a.jpeg)
-
+![App Screenshot]![resize4](https://user-images.githubusercontent.com/86294906/218174004-2b6f22cc-3905-44bf-ae5c-74dab82ddc19.jpg)
 
 
 #### 7]Cart:
 ###### Cart contains selected products , their quantity ,price and Order button
-![WhatsApp Image 2023-02-10 at 12 22 57 AM](https://user-images.githubusercontent.com/86294906/218160978-ef0413d5-ed8c-4cb1-ac5c-60f6858cce36.jpeg)
+![App Screenshot]![WhatsApp Image 2023-02-10 at 12 22 57 AM](https://user-images.githubusercontent.com/86294906/218174043-76edfc13-b671-4e2e-808d-028c04c640e2.jpeg)
 
 
 #### 8]Drawer:
-![WhatsApp Image 2023-02-10 at 12 22 59 AM (2)](https://user-images.githubusercontent.com/86294906/218161178-e851d580-9cdf-4126-b728-4c8eadb71237.jpeg)
+![App Screenshot]![resize11](https://user-images.githubusercontent.com/86294906/218173631-cd292828-4346-4d34-b24b-7e1576a9da7b.jpg)
 
 
 #### 9]Add_Products:
 ###### Screen to add product to sell
-![WhatsApp Image 2023-02-10 at 12 22 59 AM (1)](https://user-images.githubusercontent.com/86294906/218161254-4eb4192d-1132-4844-baaa-9b94f3fa0379.jpeg)
-
+![App Screenshot]![resize10](https://user-images.githubusercontent.com/86294906/218173695-8f1c6d65-7238-416f-8619-9d89b3cf357f.jpg)
 
 
 #### 10]Display or screen of product getting add:
 ###### Product is displayed in a Container
-![WhatsApp Image 2023-02-10 at 12 22 59 AM](https://user-images.githubusercontent.com/86294906/218161501-3bf0acf2-07ae-424c-ade3-6f2cab9c349a.jpeg)
-
+![App Screenshot]![resize12](https://user-images.githubusercontent.com/86294906/218173750-f37545af-5566-456e-ad9d-618fc83d80dc.jpg)
 
 
 #### 11]List of Added Products:
 ###### List of Products and each product contains a edit and delete option
-![WhatsApp Image 2023-02-10 at 12 22 58 AM (2)](https://user-images.githubusercontent.com/86294906/218161654-47818338-50ed-4c42-bb6c-1c7723abf716.jpeg)
-
+![App Screenshot]![WhatsApp Image 2023-02-10 at 12 22 58 AM (2)](https://user-images.githubusercontent.com/86294906/218173826-965ccf79-f97b-45f9-9f88-62065470ea27.jpeg)
 
 
 #### 12]Orders:
 ###### List of Past Orders placed by users
-![WhatsApp Image 2023-02-10 at 12 22 56 AM](https://user-images.githubusercontent.com/86294906/218161867-d412373b-7836-40fb-8411-23b8f82c5b24.jpeg)
-
+![App Screenshot]![WhatsApp Image 2023-02-10 at 12 22 56 AM](https://user-images.githubusercontent.com/86294906/218173894-ceb576ab-c335-4e75-98b4-5ead37db29e3.jpeg)
 
 
 #### 13]Display of Product:
 ###### Product view when clicked on card , contains product images, its details , and Placed order button
-![WhatsApp Image 2023-02-10 at 12 24 33 AM](https://user-images.githubusercontent.com/86294906/218162016-a9bda93b-3d62-4796-ba72-f946a08ae5d4.jpeg)
+![App Screenshot]![resize13](https://user-images.githubusercontent.com/86294906/218174099-6e87323c-fff5-400b-bf17-0a4748a6b8c3.jpg)
 
 
 
