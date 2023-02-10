@@ -9,7 +9,8 @@ Idea behind this application is to deliver the things to the users or customers 
 
 #### 1]Registration_Page:
 ###### Firebase email Authentication used.
-![App Screenshot](https://user-images.githubusercontent.com/86294906/218159036-59323548-3948-42da-94bc-06e41f71a440.jpeg)
+![App Screenshot]![resize1](https://user-images.githubusercontent.com/86294906/218170338-43001695-809f-4967-a78a-839ea530eb5f.jpg)
+(https://user-images.githubusercontent.com/86294906/218159036-59323548-3948-42da-94bc-06e41f71a440.jpeg)
 
 
 #### 2]Login_Page:
