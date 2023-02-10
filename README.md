@@ -69,7 +69,7 @@ Idea behind this application is to deliver the things to the users or customers 
 
 #### 13]Display of Product:
 ###### Product view when clicked on card , contains product images, its details , and Placed order button
-![App Screenshot]![resize13](https://user-images.githubusercontent.com/86294906/218174099-6e87323c-fff5-400b-bf17-0a4748a6b8c3.jpg)
+![App Screenshot](https://user-images.githubusercontent.com/86294906/218174099-6e87323c-fff5-400b-bf17-0a4748a6b8c3.jpg)
 
 
 
