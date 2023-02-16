@@ -168,7 +168,7 @@ class _Edit_User_InputState extends State<Edit_User_Input> {
                       decoration: InputDecoration(labelText: "Price"),
                       textInputAction: TextInputAction.next,
                       keyboardType: TextInputType.number,
-                      focusNode: _primefocus,
+                      focusNode: _primefocus2,
                       onFieldSubmitted: (_) {
                         FocusScope.of(context).requestFocus(_primefocus2);
                       },
